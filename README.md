@@ -10,4 +10,9 @@ ng add @angular/material
 npm i json-server
 ```
 
-3.- 
+3.- Crear 3 directories:
+
+- Shared: toolbar y footer
+- Server: db.json y routes.json -
+- <Bounded-context>: components, services, models, etc.
+- Public: components, assets 
