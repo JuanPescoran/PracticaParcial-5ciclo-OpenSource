@@ -10,6 +10,7 @@ import { CardBundleComponent } from './store/components/card-bundle/card-bundle.
 import { BundleListComponent } from './store/pages/bundle-list/bundle-list.component';
 import {MatToolbar} from "@angular/material/toolbar";
 import {MatAnchor} from "@angular/material/button";
+import { HomeSectionComponent } from './public/pages/home-section/home-section.component';
 
 @NgModule({
   declarations: [
@@ -18,6 +19,7 @@ import {MatAnchor} from "@angular/material/button";
     PageNotFoundComponent,
     CardBundleComponent,
     BundleListComponent,
+    HomeSectionComponent,
   ],
   imports: [
     BrowserModule,

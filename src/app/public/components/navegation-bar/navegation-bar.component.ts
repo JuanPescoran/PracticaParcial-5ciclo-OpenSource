@@ -8,7 +8,6 @@ import { Component } from '@angular/core';
 export class NavegationBarComponent {
   options = [
     {path: '/home', title: 'Home'},
-    {path: '/learning/students', title: 'Students'},
-    {path: '/about', title: 'About'}
+    {path: '/store/bundles', title: 'Bundles'},
   ]
 }
