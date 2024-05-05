@@ -7,7 +7,7 @@
 ```
 npm i
 ng add @angular/material
-npm i json-server
+npm install -g json-server@latest
 ```
 
 3.- Crear 3 directories:
@@ -16,3 +16,6 @@ npm i json-server
 - Server: db.json y routes.json -
 - <Bounded-context>: components, services, models, etc.
 - Public: components, assets 
+
+4- Generate components, services, environments, clas (type entity)
+
